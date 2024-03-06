@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lwx/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_sqp/hpipm_catkin/include/**",
+        "/home/lwx/catkin_ws/src/hpp-fcl/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_common/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_controllers/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_estimation/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_gazebo/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_hw/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_interface/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_examples/legged_unitree/legged_unitree_hw/include/**",
+        "/home/lwx/catkin_ws/src/legged_control-master/legged_wbc/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_pinocchio/ocs2_centroidal_model/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_core/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_ddp/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_ipm/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_robotic_examples/ocs2_legged_robot/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_robotic_examples/ocs2_legged_robot_ros/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_mpc/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_oc/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_pinocchio/ocs2_pinocchio_interface/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_test_tools/ocs2_qp_solver/include/**",
+        "/home/lwx/catkin_ws/src/ocs2_robotic_assets/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_robotic_tools/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_ros_interfaces/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_pinocchio/ocs2_self_collision/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_pinocchio/ocs2_self_collision_visualization/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_sqp/ocs2_sqp/include/**",
+        "/home/lwx/catkin_ws/src/ocs2/ocs2_thirdparty/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
