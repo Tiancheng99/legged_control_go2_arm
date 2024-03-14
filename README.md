@@ -1,5 +1,5 @@
 # legged_control
-1.先运行sdk2 .sh文件
+1.先运行unitree_sdk2 install.sh文件
 2.再编译
 
 ## Introduction
