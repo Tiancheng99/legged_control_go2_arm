@@ -1,0 +1,2 @@
+legged_control
+/home/mtc/legged_control-go2/devel/.private/legged_control/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock

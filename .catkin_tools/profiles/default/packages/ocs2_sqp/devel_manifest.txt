@@ -1,0 +1,6 @@
+ocs2/ocs2_sqp/ocs2_sqp
+/home/mtc/legged_control-go2/devel/.private/ocs2_sqp/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_sqp/share/ocs2_sqp/cmake/ocs2_sqpConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_sqp/cmake/ocs2_sqpConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_sqp/share/ocs2_sqp/cmake/ocs2_sqpConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_sqp/cmake/ocs2_sqpConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_sqp/lib/libocs2_sqp.so /home/mtc/legged_control-go2/devel/lib/libocs2_sqp.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_sqp/lib/pkgconfig/ocs2_sqp.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_sqp.pc

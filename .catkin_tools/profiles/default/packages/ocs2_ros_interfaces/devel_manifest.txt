@@ -1,0 +1,9 @@
+ocs2/ocs2_ros_interfaces
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/share/ocs2_ros_interfaces/cmake/ocs2_ros_interfacesConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_ros_interfaces/cmake/ocs2_ros_interfacesConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/share/ocs2_ros_interfaces/cmake/ocs2_ros_interfacesConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_ros_interfaces/cmake/ocs2_ros_interfacesConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/lib/libocs2_ros_interfaces.so /home/mtc/legged_control-go2/devel/lib/libocs2_ros_interfaces.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/lib/pkgconfig/ocs2_ros_interfaces.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_ros_interfaces.pc
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/lib/ocs2_ros_interfaces/multiplot_remap /home/mtc/legged_control-go2/devel/lib/ocs2_ros_interfaces/multiplot_remap
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/lib/ocs2_ros_interfaces/ocs2_ros_interfaces_lintTarget /home/mtc/legged_control-go2/devel/lib/ocs2_ros_interfaces/ocs2_ros_interfaces_lintTarget
+/home/mtc/legged_control-go2/devel/.private/ocs2_ros_interfaces/lib/ocs2_ros_interfaces/test_custom_callback_queue /home/mtc/legged_control-go2/devel/lib/ocs2_ros_interfaces/test_custom_callback_queue

@@ -1,0 +1,6 @@
+ocs2/ocs2_pinocchio/ocs2_pinocchio_interface
+/home/mtc/legged_control-go2/devel/.private/ocs2_pinocchio_interface/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_pinocchio_interface/share/ocs2_pinocchio_interface/cmake/ocs2_pinocchio_interfaceConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_pinocchio_interface/cmake/ocs2_pinocchio_interfaceConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_pinocchio_interface/share/ocs2_pinocchio_interface/cmake/ocs2_pinocchio_interfaceConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_pinocchio_interface/cmake/ocs2_pinocchio_interfaceConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_pinocchio_interface/lib/libocs2_pinocchio_interface.so /home/mtc/legged_control-go2/devel/lib/libocs2_pinocchio_interface.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_pinocchio_interface/lib/pkgconfig/ocs2_pinocchio_interface.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_pinocchio_interface.pc

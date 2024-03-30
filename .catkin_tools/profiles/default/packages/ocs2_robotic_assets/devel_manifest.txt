@@ -1,0 +1,5 @@
+ocs2_robotic_assets
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_assets/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_assets/share/ocs2_robotic_assets/cmake/ocs2_robotic_assetsConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_robotic_assets/cmake/ocs2_robotic_assetsConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_assets/share/ocs2_robotic_assets/cmake/ocs2_robotic_assetsConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_robotic_assets/cmake/ocs2_robotic_assetsConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_assets/lib/pkgconfig/ocs2_robotic_assets.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_robotic_assets.pc

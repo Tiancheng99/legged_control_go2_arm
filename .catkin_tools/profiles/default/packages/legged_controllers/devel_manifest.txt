@@ -1,0 +1,7 @@
+legged_controllers
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/share/legged_controllers/cmake/legged_controllersConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_controllers/cmake/legged_controllersConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/share/legged_controllers/cmake/legged_controllersConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_controllers/cmake/legged_controllersConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/lib/liblegged_controllers.so /home/mtc/legged_control-go2/devel/lib/liblegged_controllers.so
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/lib/legged_controllers/legged_target_trajectories_publisher /home/mtc/legged_control-go2/devel/lib/legged_controllers/legged_target_trajectories_publisher
+/home/mtc/legged_control-go2/devel/.private/legged_controllers/lib/pkgconfig/legged_controllers.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_controllers.pc

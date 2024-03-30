@@ -1,0 +1,6 @@
+legged_hw
+/home/mtc/legged_control-go2/devel/.private/legged_hw/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_hw/share/legged_hw/cmake/legged_hwConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_hw/cmake/legged_hwConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_hw/share/legged_hw/cmake/legged_hwConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_hw/cmake/legged_hwConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_hw/lib/liblegged_hw.so /home/mtc/legged_control-go2/devel/lib/liblegged_hw.so
+/home/mtc/legged_control-go2/devel/.private/legged_hw/lib/pkgconfig/legged_hw.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_hw.pc

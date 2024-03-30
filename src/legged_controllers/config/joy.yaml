@@ -1,0 +1,38 @@
+teleop:
+  walk:
+    type: topic
+    message_type: geometry_msgs/Twist
+    topic_name: cmd_vel
+    deadman_buttons: [ 4 ]
+    axis_mappings:
+      - axis: 3
+        target: angular.z
+        scale: 3.1415
+      - axis: 1
+        target: linear.x
+        scale: 1.0
+      - axis: 0
+        target: linear.y
+        scale: 0.8
+
+# 写一个发布关节位置的teleop，使用sensor_msgs/JointState类型
+  joint_state:
+    type: topic
+    message_type: geometry_msgs/Vector3
+    topic_name: arm_angles
+    deadman_buttons: [ 5 ]
+    axis_mappings:
+      - axis: 6
+        target: x
+        scale: 0.1
+      - axis: 1
+        target: y
+        scale: 0.1
+      - axis: 3
+        target: z
+        scale: 0.1
+
+
+
+
+

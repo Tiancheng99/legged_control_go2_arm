@@ -1,0 +1,5 @@
+legged_examples/legged_unitree/legged_unitree_description
+/home/mtc/legged_control-go2/devel/.private/legged_unitree_description/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_unitree_description/share/legged_unitree_description/cmake/legged_unitree_descriptionConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_unitree_description/cmake/legged_unitree_descriptionConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_unitree_description/share/legged_unitree_description/cmake/legged_unitree_descriptionConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_unitree_description/cmake/legged_unitree_descriptionConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_unitree_description/lib/pkgconfig/legged_unitree_description.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_unitree_description.pc

@@ -1,0 +1,5 @@
+legged_common
+/home/mtc/legged_control-go2/devel/.private/legged_common/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_common/share/legged_common/cmake/legged_commonConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_common/cmake/legged_commonConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_common/share/legged_common/cmake/legged_commonConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_common/cmake/legged_commonConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_common/lib/pkgconfig/legged_common.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_common.pc

@@ -1,0 +1,6 @@
+ocs2/ocs2_robotic_examples/ocs2_legged_robot
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot/share/ocs2_legged_robot/cmake/ocs2_legged_robotConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_legged_robot/cmake/ocs2_legged_robotConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot/share/ocs2_legged_robot/cmake/ocs2_legged_robotConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_legged_robot/cmake/ocs2_legged_robotConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot/lib/libocs2_legged_robot.so /home/mtc/legged_control-go2/devel/lib/libocs2_legged_robot.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot/lib/pkgconfig/ocs2_legged_robot.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_legged_robot.pc

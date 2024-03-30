@@ -1,0 +1,7 @@
+ocs2/ocs2_mpc
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/share/ocs2_mpc/cmake/ocs2_mpcConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_mpc/cmake/ocs2_mpcConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/share/ocs2_mpc/cmake/ocs2_mpcConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_mpc/cmake/ocs2_mpcConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/lib/libocs2_mpc.so /home/mtc/legged_control-go2/devel/lib/libocs2_mpc.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/lib/pkgconfig/ocs2_mpc.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_mpc.pc
+/home/mtc/legged_control-go2/devel/.private/ocs2_mpc/lib/ocs2_mpc/ocs2_mpc_lintTarget /home/mtc/legged_control-go2/devel/lib/ocs2_mpc/ocs2_mpc_lintTarget

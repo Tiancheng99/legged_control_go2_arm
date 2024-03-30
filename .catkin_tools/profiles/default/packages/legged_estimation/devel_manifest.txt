@@ -1,0 +1,6 @@
+legged_estimation
+/home/mtc/legged_control-go2/devel/.private/legged_estimation/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_estimation/share/legged_estimation/cmake/legged_estimationConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_estimation/cmake/legged_estimationConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_estimation/share/legged_estimation/cmake/legged_estimationConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_estimation/cmake/legged_estimationConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_estimation/lib/liblegged_estimation.so /home/mtc/legged_control-go2/devel/lib/liblegged_estimation.so
+/home/mtc/legged_control-go2/devel/.private/legged_estimation/lib/pkgconfig/legged_estimation.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_estimation.pc

@@ -1,0 +1,6 @@
+ocs2/ocs2_ipm
+/home/mtc/legged_control-go2/devel/.private/ocs2_ipm/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_ipm/share/ocs2_ipm/cmake/ocs2_ipmConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_ipm/cmake/ocs2_ipmConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_ipm/share/ocs2_ipm/cmake/ocs2_ipmConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_ipm/cmake/ocs2_ipmConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_ipm/lib/libocs2_ipm.so /home/mtc/legged_control-go2/devel/lib/libocs2_ipm.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_ipm/lib/pkgconfig/ocs2_ipm.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_ipm.pc

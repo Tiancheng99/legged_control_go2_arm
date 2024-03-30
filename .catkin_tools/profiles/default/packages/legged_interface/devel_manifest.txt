@@ -1,0 +1,6 @@
+legged_interface
+/home/mtc/legged_control-go2/devel/.private/legged_interface/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_interface/share/legged_interface/cmake/legged_interfaceConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_interface/cmake/legged_interfaceConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_interface/share/legged_interface/cmake/legged_interfaceConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_interface/cmake/legged_interfaceConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_interface/lib/liblegged_interface.so /home/mtc/legged_control-go2/devel/lib/liblegged_interface.so
+/home/mtc/legged_control-go2/devel/.private/legged_interface/lib/pkgconfig/legged_interface.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_interface.pc

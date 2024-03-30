@@ -1,0 +1,6 @@
+ocs2/ocs2_pinocchio/ocs2_self_collision_visualization
+/home/mtc/legged_control-go2/devel/.private/ocs2_self_collision_visualization/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_self_collision_visualization/share/ocs2_self_collision_visualization/cmake/ocs2_self_collision_visualizationConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_self_collision_visualization/cmake/ocs2_self_collision_visualizationConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_self_collision_visualization/share/ocs2_self_collision_visualization/cmake/ocs2_self_collision_visualizationConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_self_collision_visualization/cmake/ocs2_self_collision_visualizationConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_self_collision_visualization/lib/libocs2_self_collision_visualization.so /home/mtc/legged_control-go2/devel/lib/libocs2_self_collision_visualization.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_self_collision_visualization/lib/pkgconfig/ocs2_self_collision_visualization.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_self_collision_visualization.pc

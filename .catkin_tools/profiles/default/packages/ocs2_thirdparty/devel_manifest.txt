@@ -1,0 +1,5 @@
+ocs2/ocs2_thirdparty
+/home/mtc/legged_control-go2/devel/.private/ocs2_thirdparty/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_thirdparty/share/ocs2_thirdparty/cmake/ocs2_thirdpartyConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_thirdparty/cmake/ocs2_thirdpartyConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_thirdparty/share/ocs2_thirdparty/cmake/ocs2_thirdpartyConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_thirdparty/cmake/ocs2_thirdpartyConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_thirdparty/lib/pkgconfig/ocs2_thirdparty.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_thirdparty.pc

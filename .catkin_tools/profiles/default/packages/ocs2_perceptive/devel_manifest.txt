@@ -1,0 +1,7 @@
+ocs2/ocs2_perceptive
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/share/ocs2_perceptive/cmake/ocs2_perceptiveConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_perceptive/cmake/ocs2_perceptiveConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/share/ocs2_perceptive/cmake/ocs2_perceptiveConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_perceptive/cmake/ocs2_perceptiveConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/lib/libocs2_perceptive.so /home/mtc/legged_control-go2/devel/lib/libocs2_perceptive.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/lib/ocs2_perceptive/ocs2_perceptive_lintTarget /home/mtc/legged_control-go2/devel/lib/ocs2_perceptive/ocs2_perceptive_lintTarget
+/home/mtc/legged_control-go2/devel/.private/ocs2_perceptive/lib/pkgconfig/ocs2_perceptive.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_perceptive.pc

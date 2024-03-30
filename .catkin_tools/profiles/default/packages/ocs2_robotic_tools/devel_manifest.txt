@@ -1,0 +1,7 @@
+ocs2/ocs2_robotic_tools
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/share/ocs2_robotic_tools/cmake/ocs2_robotic_toolsConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_robotic_tools/cmake/ocs2_robotic_toolsConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/share/ocs2_robotic_tools/cmake/ocs2_robotic_toolsConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_robotic_tools/cmake/ocs2_robotic_toolsConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/lib/libocs2_robotic_tools.so /home/mtc/legged_control-go2/devel/lib/libocs2_robotic_tools.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/lib/ocs2_robotic_tools/ocs2_robotic_tools_lintTarget /home/mtc/legged_control-go2/devel/lib/ocs2_robotic_tools/ocs2_robotic_tools_lintTarget
+/home/mtc/legged_control-go2/devel/.private/ocs2_robotic_tools/lib/pkgconfig/ocs2_robotic_tools.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_robotic_tools.pc

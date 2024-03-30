@@ -1,0 +1,7 @@
+ocs2/ocs2_slp
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/share/ocs2_slp/cmake/ocs2_slpConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_slp/cmake/ocs2_slpConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/share/ocs2_slp/cmake/ocs2_slpConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_slp/cmake/ocs2_slpConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/lib/libocs2_slp.so /home/mtc/legged_control-go2/devel/lib/libocs2_slp.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/lib/ocs2_slp/ocs2_slp_lintTarget /home/mtc/legged_control-go2/devel/lib/ocs2_slp/ocs2_slp_lintTarget
+/home/mtc/legged_control-go2/devel/.private/ocs2_slp/lib/pkgconfig/ocs2_slp.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_slp.pc

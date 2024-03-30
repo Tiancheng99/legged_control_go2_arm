@@ -1,0 +1,12 @@
+ocs2/ocs2_robotic_examples/ocs2_legged_robot_ros
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/share/ocs2_legged_robot_ros/cmake/ocs2_legged_robot_rosConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_legged_robot_ros/cmake/ocs2_legged_robot_rosConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/share/ocs2_legged_robot_ros/cmake/ocs2_legged_robot_rosConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_legged_robot_ros/cmake/ocs2_legged_robot_rosConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/libocs2_legged_robot_ros.so /home/mtc/legged_control-go2/devel/lib/libocs2_legged_robot_ros.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_ddp_mpc /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_ddp_mpc
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_target /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_target
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_ipm_mpc /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_ipm_mpc
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_gait_command /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_gait_command
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_sqp_mpc /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_sqp_mpc
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/ocs2_legged_robot_ros/legged_robot_dummy /home/mtc/legged_control-go2/devel/lib/ocs2_legged_robot_ros/legged_robot_dummy
+/home/mtc/legged_control-go2/devel/.private/ocs2_legged_robot_ros/lib/pkgconfig/ocs2_legged_robot_ros.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_legged_robot_ros.pc

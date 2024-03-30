@@ -1,0 +1,6 @@
+legged_gazebo
+/home/mtc/legged_control-go2/devel/.private/legged_gazebo/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_gazebo/share/legged_gazebo/cmake/legged_gazeboConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_gazebo/cmake/legged_gazeboConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_gazebo/share/legged_gazebo/cmake/legged_gazeboConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_gazebo/cmake/legged_gazeboConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_gazebo/lib/liblegged_hw_sim.so /home/mtc/legged_control-go2/devel/lib/liblegged_hw_sim.so
+/home/mtc/legged_control-go2/devel/.private/legged_gazebo/lib/pkgconfig/legged_gazebo.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_gazebo.pc

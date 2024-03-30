@@ -1,0 +1,6 @@
+ocs2/ocs2_test_tools/ocs2_qp_solver
+/home/mtc/legged_control-go2/devel/.private/ocs2_qp_solver/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_qp_solver/share/ocs2_qp_solver/cmake/ocs2_qp_solverConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_qp_solver/cmake/ocs2_qp_solverConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_qp_solver/share/ocs2_qp_solver/cmake/ocs2_qp_solverConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_qp_solver/cmake/ocs2_qp_solverConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_qp_solver/lib/libocs2_qp_solver.so /home/mtc/legged_control-go2/devel/lib/libocs2_qp_solver.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_qp_solver/lib/pkgconfig/ocs2_qp_solver.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_qp_solver.pc

@@ -1,0 +1,6 @@
+legged_wbc
+/home/mtc/legged_control-go2/devel/.private/legged_wbc/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/legged_wbc/share/legged_wbc/cmake/legged_wbcConfig-version.cmake /home/mtc/legged_control-go2/devel/share/legged_wbc/cmake/legged_wbcConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_wbc/share/legged_wbc/cmake/legged_wbcConfig.cmake /home/mtc/legged_control-go2/devel/share/legged_wbc/cmake/legged_wbcConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/legged_wbc/lib/liblegged_wbc.so /home/mtc/legged_control-go2/devel/lib/liblegged_wbc.so
+/home/mtc/legged_control-go2/devel/.private/legged_wbc/lib/pkgconfig/legged_wbc.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/legged_wbc.pc

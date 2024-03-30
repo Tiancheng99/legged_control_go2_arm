@@ -1,0 +1,6 @@
+ocs2/ocs2_pinocchio/ocs2_centroidal_model
+/home/mtc/legged_control-go2/devel/.private/ocs2_centroidal_model/cmake.lock /home/mtc/legged_control-go2/devel/./cmake.lock
+/home/mtc/legged_control-go2/devel/.private/ocs2_centroidal_model/share/ocs2_centroidal_model/cmake/ocs2_centroidal_modelConfig-version.cmake /home/mtc/legged_control-go2/devel/share/ocs2_centroidal_model/cmake/ocs2_centroidal_modelConfig-version.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_centroidal_model/share/ocs2_centroidal_model/cmake/ocs2_centroidal_modelConfig.cmake /home/mtc/legged_control-go2/devel/share/ocs2_centroidal_model/cmake/ocs2_centroidal_modelConfig.cmake
+/home/mtc/legged_control-go2/devel/.private/ocs2_centroidal_model/lib/libocs2_centroidal_model.so /home/mtc/legged_control-go2/devel/lib/libocs2_centroidal_model.so
+/home/mtc/legged_control-go2/devel/.private/ocs2_centroidal_model/lib/pkgconfig/ocs2_centroidal_model.pc /home/mtc/legged_control-go2/devel/lib/pkgconfig/ocs2_centroidal_model.pc
